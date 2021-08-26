@@ -1,7 +1,7 @@
 # cloudlog
 
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/ishihaya/cloudlog)](https://github.com/ishihaya/cloudlog/releases)
-[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white)](https://pkg.go.dev/github.com/ishihaya/cloudlog)
+[![GoDoc](https://pkg.go.dev/badge/ishihaya/cloudlog)](https://pkg.go.dev/github.com/ishihaya/cloudlog)
 
 ## Comments
 
